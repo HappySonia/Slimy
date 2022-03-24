@@ -6,7 +6,7 @@ A full-stack database backed express application, where users can search,like an
 
 ## Demonstration
 
-<a href="https://arcane-fjord-68442.herokuapp.com/">Link to website</a>com
+<a href="http://movies-mad.herokuapp.com/">Link to website</a>com
 
 <p><img src="/demo/homepage.png" width='500px' style="text-align:center;"><img src="/demo/comments.png" width='500px' style="text-align:center;"></p>
 
